@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Khurshidbek Kurbanov
+#### CTO |  Software Engineer
+![CTO |  Software Engineer](https://twitter.com/kurbanovxurshid/header_photo)
 
-Dedicated and skilled mobile engineer with 6 years experiences in software development lifecycle and 1.5 years teaching including analysis, design, development, testing and deployment. Product-oriented mobile application engineer with strong math background and very passionate about mobile development and mostly work with Android, iOS and Flutter.
+Dedicated and skilled software engineer with 7 years experiences in software development lifecycle and 2 years teaching including analysis, design, development, testing and deployment. Product-oriented software engineer with strong math background and very passionate about mobile development and mostly work with Android, iOS, Flutter and Spring Boot.
+
+Skills: Android, iOS, Flutter, Spring Boot, Blockchain, Fintech
+
+- 🔭 I’m currently working on https://www.paybek.io 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khurshid88)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/khurshid88)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/khurshidbek-kurbanov-98647a99//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCFMPyPzKbQ4YxhBbc4x1hhw)  
+
