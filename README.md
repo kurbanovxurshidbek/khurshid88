@@ -1,6 +1,6 @@
 ### Hi there 👋, Khurshidbek Kurbanov
-#### CTO |  Software Engineer
-Dedicated and skilled software engineer with 7 years experiences in software development lifecycle and 2 years teaching including analysis, design, development, testing and deployment. Product-oriented software engineer with strong math background and very passionate about mobile development and mostly work with Android, iOS, Flutter and Spring Boot.
+#### Lead Engineer | CTO
+Hello, I'm Khurshidbek, a passionate Mobile Engineer with a focus on creating exceptional mobile applications. I specialize in developing cutting-edge software for both iOS and Android platforms. With 7 years of hands-on experience in the field, I've had the privilege of being part of various mobile projects, ranging from small startups to large-scale ventures.
 
 Skills: Android, iOS, Flutter, Spring Boot, Blockchain, Fintech
 
