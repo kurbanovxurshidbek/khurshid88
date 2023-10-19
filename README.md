@@ -1,4 +1,4 @@
-### Hi there 👋, Khurshidbek Kurbanov
+### Hi there 👋, Xurshidbek Kurbanov
 #### Lead Engineer | CTO
 Hello, I'm Khurshidbek, a passionate Mobile Engineer with a focus on creating exceptional mobile applications. I specialize in developing cutting-edge software for both iOS and Android platforms. With 7 years of hands-on experience in the field, I've had the privilege of being part of various mobile projects, ranging from small startups to large-scale ventures.
 
